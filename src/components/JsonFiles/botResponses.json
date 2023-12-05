@@ -1,0 +1,89 @@
+
+{
+  "structure": [
+    "Ensure your resume has a clear structure with sections like Contact Information, Education, Skills, Projects, and Work Experience.",
+    "Use bullet points for easy readability."
+  ],
+  "content": [
+    "Highlight relevant skills and achievements.",
+    "Quantify your accomplishments whenever possible."
+  ],
+  "formatting": [
+    "Choose a clean and professional font.",
+    "Keep the resume length to one page if possible.",
+    "Include a professional-looking email address."
+  ],
+  "tailoring": [
+    "Tailor your resume for each job application. Customize it to match the job requirements.",
+    "Use keywords from the job description to optimize your resume for Applicant Tracking Systems (ATS)."
+  ],
+  "proofreading": [
+    "Proofread your resume carefully to avoid typos and grammatical errors.",
+    "Ask a friend or mentor to review your resume for feedback."
+  ],
+
+  "greetings": [
+    "Hello! How can I assist you today?",
+    "Hi there! How can I help you?"
+  ],
+  "jobOpportunities": [
+    "We have various job opportunities available. Can you specify your field of interest?",
+    "Sure, I can help you find job opportunities. What's your preferred industry?"
+  ],
+  "internshipOpportunities": [
+    "Great! Internships are a fantastic way to gain practical experience. What field are you interested in?",
+    "Internships are a valuable part of your education. Tell me your preferred industry, and I'll find relevant opportunities for you."
+  ],
+  "resumeGuidance": [
+    "Creating an impressive resume is crucial for job applications. Do you need tips on resume writing or specific advice?",
+    "Sure, I can provide guidance on crafting a strong resume. What particular aspect would you like help with?"
+  ],
+  "interviewTips": [
+    "Preparing for interviews is important. Are you looking for general interview tips or advice tailored to a specific industry?",
+    "I can help you with interview preparation. Let me know if you have any specific questions or if you want general tips."
+  ],
+  "fallback": [
+    "I'm sorry, I didn't understand that. Can you please provide more details or ask a different question?",
+    "I'm here to help with placement-related queries. If you could provide more information, I'll do my best to assist you."
+  ],
+  "casual": [
+    "Hello! What's up?",
+    "Hey there! How can I assist you today?",
+    "Hi! Anything specific you'd like to know or talk about?"
+  ],
+  "formal": [
+    "Hello! I hope you're having a great day. How may I assist you?",
+    "Greetings! It's a pleasure to assist you. What brings you here?",
+    "Hello! I'm here to help. Feel free to ask me anything."
+  ],
+  "enthusiastic": [
+    "Hellooooo! Ready for an awesome chat?",
+    "Hi there! Excited to chat with you today!",
+    "Heyyy! How can I make your day better?"
+  ],
+  "contactInformation": [
+    "The contact information section includes your name, phone number, and professional email address.",
+    "Make sure your contact information is up-to-date and professional."
+  ],
+  "education": [
+    "The education section should list your academic achievements, including degrees, institutions, and graduation dates.",
+    "Highlight any relevant honors or awards you received during your education."
+  ],
+  "skills": [
+    "The skills section is crucial. Include both technical and soft skills relevant to the job you're applying for.",
+    "Consider categorizing your skills to make it easier for recruiters to quickly identify your strengths."
+  ],
+  "experience": [
+    "The experience section details your work history. Include your job titles, company names, and dates of employment.",
+    "Focus on quantifiable achievements and responsibilities in each role."
+  ],
+  "projects": [
+    "The projects section is a great way to showcase your hands-on experience. Describe the projects you've worked on and the technologies used.",
+    "Include any open-source contributions or personal projects that demonstrate your skills."
+  ],
+  "achievements": [
+    "The achievements section highlights your accomplishments. Include any awards, certifications, or recognition you've received.",
+    "Quantify your achievements to add impact to your resume."
+  ]
+
+}
